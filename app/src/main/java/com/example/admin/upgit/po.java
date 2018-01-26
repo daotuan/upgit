@@ -5,4 +5,8 @@ package com.example.admin.upgit;
  */
 
 public class po {
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
